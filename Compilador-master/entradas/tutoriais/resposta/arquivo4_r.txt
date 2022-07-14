@@ -1,0 +1,2 @@
+Teclados USB apresentam problemas com outros dispositivos USB, verifica no gerenciador de dispositivos se existe a exclamação amarela em algum dispositivo, então manda atualizar o driver que corrige.
+Tem também uma atualização no Windows que resolve problemas com as portas USB, então atualiza o Windows que muitas vezes resolve.

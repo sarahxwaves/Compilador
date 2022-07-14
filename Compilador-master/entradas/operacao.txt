@@ -1,0 +1,7 @@
+ligar
+desligar
+funcionar
+ativar
+consertar
+atualizar
+imprimir 

@@ -1,0 +1,1 @@
+O que vc deve fazer é testar peça por peça pra ver onde esta o erro que pode também ser de drivers ou Windows. Leve em m amigo ou assistência técnica e teste tudo: Placa mãe , hd, fonte etc.

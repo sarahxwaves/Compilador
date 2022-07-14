@@ -1,0 +1,8 @@
+notebook
+computador
+mouse
+impressora
+internet
+windows
+teclado
+linux 

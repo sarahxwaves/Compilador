@@ -1,0 +1,7 @@
+lento
+pisca
+quente
+ruido
+barulho
+ligado
+desligado 

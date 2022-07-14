@@ -1,0 +1,9 @@
+Esse ruido nada mais é do que vazamento de alta tensão ( muitas vezes provocado por excesso de poeira dentro do monitor )
+
+Retire a tampa traseira do monitor ( com ele desligado da tomada ) se não puder usar um compressor de ar , use um aspirador )
+
+limpe toda poeira dentro do gabinete do monitor.
+
+retire a chupeta ( parece uma ventosa ) que é ligada ao tubo de imagem. passe vaselina nas bordas da chupeta
+
+recoloque a chupeta no lugar e certifique que está bem presa.

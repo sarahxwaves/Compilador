@@ -1,0 +1,1 @@
+Minha impressora HP Office 6230 não está imprimindo e aparece a seguinte mensagem "Está faltando cabeçote de impressão, não detectado ou incorretamente instalado".
